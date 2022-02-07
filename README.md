@@ -2,25 +2,25 @@
 
 * Abra o explorador de arquivos e entre em Este computador (ou no nome que estiver): 
  <div align="center">
-     <img src="images/estecomputador.png" alt="computador" >
+     <img src="images/estecomputador.png" alt="Este Computador" >
  </div>
 
 * Vá em dico local C / C:
 
 <div align="center">
-     <img src="images/estecomputador.png" alt="computador" >
+     <img src="images/discolocal.png" alt="Disco Local" >
  </div>
 
 * Vá para Usuários e entre no seu usuário
 
 <div align="center">
-     <img src="images/estecomputador.png" alt="computador" >
+     <img src="images/user.png" alt="Usuário" >
  </div>
 
 * Baixe em seu PC o arquivo <code>.bashrc</code> e em seguida copie ele para dentro da pasta do seu usuário
 
 <div align="center">
-     <img src="images/estecomputador.png" alt="computador" >
+     <img src="images/userdentrro.png" alt="Dentro do seu usuário" >
  </div>
 
 * Agora você está pronto para usar o facilitador de vidas 
