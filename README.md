@@ -1,20 +1,27 @@
 ## Configuração inicial / Initial setting 
 
 * Abra o explorador de arquivos e entre em Este computador (ou no nome que estiver): 
- 
-<img src="images/estecomputador.png" alt="computador" >
+ <div align="center">
+     <img src="images/estecomputador.png" alt="computador" >
+ </div>
 
 * Vá em dico local C / C:
 
-//img
+<div align="center">
+     <img src="images/estecomputador.png" alt="computador" >
+ </div>
 
 * Vá para Usuários e entre no seu usuário
 
-//img
+<div align="center">
+     <img src="images/estecomputador.png" alt="computador" >
+ </div>
 
 * Baixe em seu PC o arquivo <code>.bashrc</code> e em seguida copie ele para dentro da pasta do seu usuário
 
-//img
+<div align="center">
+     <img src="images/estecomputador.png" alt="computador" >
+ </div>
 
 * Agora você está pronto para usar o facilitador de vidas 
 
