@@ -1,25 +1,25 @@
 ## Configuração inicial / Initial setting 
 
 * Abra o explorador de arquivos e entre em Este computador (ou no nome que estiver): 
- <div align="center">
+ <div align="center" style="margin: 20px 0 ;">
      <img src="images/estecomputador.png" alt="Este Computador" >
  </div>
 
 * Vá em dico local C / C:
 
-<div align="center">
+<div align="center" style="margin: 20px 0 ;">
      <img src="images/discolocal C.png" alt="Disco Local" >
  </div>
 
 * Vá para Usuários e entre no seu usuário
 
-<div align="center">
+<div align="center" style="margin: 20px 0 ;">
      <img src="images/user.png" alt="Usuário" >
  </div>
 
 * Baixe em seu PC o arquivo <code>.bashrc</code> e em seguida copie ele para dentro da pasta do seu usuário
 
-<div align="center">
+<div align="center" style="margin: 20px 0 ;">
      <img src="images/userdentrro.png" alt="Dentro do seu usuário" >
  </div>
 
