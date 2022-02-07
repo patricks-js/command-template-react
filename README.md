@@ -11,7 +11,7 @@
      <img src="images/discolocal C.png" alt="Disco Local" >
  </div>
 
-* Vá para Usuários e entre no seu usuário
+* Vá para Usuários e entre no <strong>SEU</strong> usuário
 
 <div align="center" style="margin: 20px 0 ;">
      <img src="images/user.png" alt="Usuário" >
