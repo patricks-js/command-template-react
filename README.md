@@ -8,7 +8,7 @@
 * Vá em dico local C / C:
 
 <div align="center">
-     <img src="images/discolocal.png" alt="Disco Local" >
+     <img src="images/discolocal C.png" alt="Disco Local" >
  </div>
 
 * Vá para Usuários e entre no seu usuário
