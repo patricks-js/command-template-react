@@ -2,7 +2,7 @@
 
 * Abra o explorador de arquivos e entre em Este computador (ou no nome que estiver): 
  
-<img src="images/estecomputador.png" alt="Este computador" >
+<img src="images/estecomputador.png" alt="computador" >
 
 * Vá em dico local C / C:
 
