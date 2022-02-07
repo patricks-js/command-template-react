@@ -1,64 +1,110 @@
-## Configuração inicial / Initial setting 
+ <!-- <div align="center" id="top"> 
+  <img src="./.github/app.gif" alt="Command Template React" /> -->
 
-* Abra o explorador de arquivos e entre em Este computador (ou no nome que estiver): 
- <div align="center" style="margin: 20px 0 ;">
-     <img src="images/estecomputador.png" alt="Este Computador" >
- </div>
+  &#xa0;
 
-* Vá em dico local C / C:
+  <!-- <a href="https://commandtemplatereact.netlify.app">Demo</a> -->
+</div>
 
-<div align="center" style="margin: 20px 0 ;">
-     <img src="images/discolocal C.png" alt="Disco Local" >
- </div>
+<h1 align="center">Command Template React</h1>
 
-* Vá para Usuários e entre no <strong>SEU</strong> usuário
+<p align="center">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/TelesDYN/command-template-react?color=56BEB8">
 
-<div align="center" style="margin: 20px 0 ;">
-     <img src="images/user.png" alt="Usuário" >
- </div>
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/TelesDYN/command-template-react?color=56BEB8">
 
-* Baixe em seu PC o arquivo <code>.bashrc</code> e em seguida copie ele para dentro da pasta do seu usuário
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/TelesDYN/command-template-react?color=56BEB8">
 
-<div align="center" style="margin: 20px 0 ;">
-     <img src="images/userdentrro.png" alt="Dentro do seu usuário" >
- </div>
+  <!-- <img alt="License" src="https://img.shields.io/github/license/TelesDYN/command-template-react?color=56BEB8">  -->
 
-* Agora você está pronto para usar o facilitador de vidas 
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/TelesDYN/command-template-react?color=56BEB8" /> -->
+
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/TelesDYN/command-template-react?color=56BEB8" /> -->
+
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/TelesDYN/command-template-react?color=56BEB8" /> -->
+</p>
+
+<!-- Status -->
+
+<h4 align="center"> 
+	🚧 Under construction...  🚧
+</h4> 
+
+<hr>
+
+<p align="center">
+  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
+  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="#warning-attention">Attention</a> &#xa0; | &#xa0;
+  <!-- <a href="#memo-license">License</a> &#xa0; | &#xa0;  -->
+  <a href="https://github.com/Patrick-D-Lucas" target="_blank">Author</a>
+</p>
 
 <br>
 
-## Pré-requisito 
+## :dart: About ##
 
-* O único pré-requisito é usar um bash do linux, pode ser até mesmo o <strong>Git Bash</strong>
-<br>
+This project is built to make the ReactJs Developer **easier**. It's made to create apps with **"ViteJS"**, a lighter react alternative with a more friendly workstation, only with **basic react template files**.
 
-## Antes de usar
+## :sparkles: Features ##
 
-* Certifique-se que seu terminal é algum bash (recomendo o <strong>Git Bash</strong>)
+:heavy_check_mark: **Start a React project with ready-made and basic folders and files quickly and start coding!**
 
-* Caso goste de usar o teminal direto do <strong>VsCode</strong>, recomendo que deixe o terminal Bash como padrão 
+## :rocket: Technologies ##
 
-<br>
+The following tools were used in this project:
 
-## Comando
+- [Visual Studio Code](code.visualstudio.com)
 
-<p>Enfim o comando. Teste no seu Bash o comando <code>ggcvr</code> de <strong>gg create vite react</strong></p>
-<p>O gg não significa nada, é só um padrão, se você abrir o código do <code>.bashrc</code> você vai encontrar esse padrão nos outros códigos também</p>
-<p>Vale comentar que não precisa se preocupar com os outros códigos, pois o comando principal já chama os outros como se fosse as variáveis do JavaScript</p>
-<br>
+## :white_check_mark: Requirements ##
 
-## <mark>ATENÇÃO<mark>
+Before starting :checkered_flag:, you need to have a Bash Terminal like [Git Bash](https://git-scm.com) installed. <br>
+I personally recommend that you set Bash as your default terminal in VSCode, to use the built-in terminal
 
-<p>Neste código utilizei o <a href="https://vitejs.dev"><strong>ViteJs</strong></a> que instala só o básico para rodar uma aplicação React, 
-demora aproximadamente 10 segundos para preparar o ambiente se comparado ao <code>create-react-app</code> que estamos acostumados a usar, então não estranhe o jeito que ele
-irá criar os arquivos e as pastas, é bom lembrar que ele não instala o <code>node modules</code>, é necessário entrar no diretório da aplicação e rodar um yarn ou npm init para instalar o <code>node modules</code> para o vite</p>
- 
- <br>
- 
- ## Atualizações
- 
-<p>Iriei acrescentar mais coisas a esse facilitador como esse yarn ou npm automático no seu src para criar o <code>node modules</code> mas por enquanto fica apenas nisso</p>
- 
- ## Contribuição
- 
- <p>Fique a vontade para contrinuir nesse facilitador e você mesmo pode fazer o seu. Logo mais teremos novidades.</p>
+## :checkered_flag: Starting ##
+
+```bash
+# Make sure that you are in your Users folder (~)
+
+# Clone this project
+$ git clone https://github.com/Patrick-D-Lucas/command-template-react
+
+# Move ".bashrc" file outside of "command-template-react" folder
+$ mv command-template-react/.bashrc .
+
+# Remove "command-template-react" folder
+$ rm -rf command-template-react
+
+# Then, It's ready to use! :)
+```
+Now, to use the tool:
+
+```bash
+# Restart, or open your bash terminal and navigate to your new project folder
+
+# Execute the command
+$ ggcvr
+
+# What does it mean?
+# ggcvr is an acronym to gg create vite react - gg doesn't mean nothing, it's just a personal pattern.
+
+# After that, just start coding :)
+```
+
+## :warning: Attention ##
+Note that this code installs just the necessary files to run a React Application, so don't be surprised by the folder/files structure.
+It's good to remind that is necessary run <code>yarn</code> or <code>npm init</code>  to install node_modules in your project.
+If you have any idea to contribute with this project, feel free to do a pull request. Updates are cooming soon! ;) 
+
+<!-- ## :memo: License ##
+
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.  -->
+
+
+Made with :heart: by <a href="https://github.com/Patrick-D-Lucas" target="_blank">Lucas Patrick</a>
+
+&#xa0;
+
