@@ -45,4 +45,13 @@
 <p>Neste código utilizei o <a href="https://vitejs.dev"><strong>ViteJs</strong></a> que instala só o básico para rodar uma aplicação React, 
 demora aproximadamente 10 segundos para preparar o ambiente se comparado ao <code>create-react-app</code> que estamos acostumados a usar, então não estranhe o jeito que ele
 irá criar os arquivos e as pastas, é bom lembrar que ele não instala o <code>node modules</code>, é necessário entrar no diretório da aplicação e rodar um yarn ou npm init para instalar o <code>node modules</code> para o vite</p>
+ 
+ <br>
+ 
+ ## Atualizações
+ 
 <p>Iriei acrescentar mais coisas a esse facilitador como esse yarn ou npm automático no seu src para criar o <code>node modules</code> mas por enquanto fica apenas nisso</p>
+ 
+ ## Contribuição
+ 
+ <p>Fique a vontade para contrinuir nesse facilitador e você mesmo pode fazer o seu. Logo mais teremos novidades.</p>
