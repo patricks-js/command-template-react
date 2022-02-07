@@ -2,7 +2,7 @@
 
 * Abra o explorador de arquivos e entre em Este computador (ou no nome que estiver): 
  
- //img
+ <img src="https://uploaddeimagens.com.br/imagens/hyhDgN0" alt="Este computador"/>
  
 * Vá em dico local C / C:
 
